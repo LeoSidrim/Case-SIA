@@ -36,7 +36,7 @@ Essa abordagem garante que o script seja resiliente, forneça feedback claro ao 
 
 Conforme solicitado pelo critério de "Ética e Transparência", detalho abaixo como a Inteligência Artificial foi utilizada como ferramenta de apoio durante o desenvolvimento deste projeto.
 
-    Utilizei um modelo de linguagem avançado (Google Gemini) como um "programador em par" (pair programmer) e assistente de desenvolvimento para acelerar e aprimorar diversas etapas do processo:
+Utilizei um modelo de linguagem avançado (Google Gemini) como um "programador em par" (pair programmer) e assistente de desenvolvimento para acelerar e aprimorar diversas etapas do processo:
 
 1. **Geração de Código Base (Boilerplate):** A estrutura inicial das funções em Python, como a lógica para fazer requisições HTTP com a biblioteca requests e o processamento inicial de XML, foi gerada com o auxílio da IA com base nos requisitos do case.
 
