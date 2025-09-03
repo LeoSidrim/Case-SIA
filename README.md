@@ -67,15 +67,12 @@ streamlit run app.py
 
 ## 📁 Estrutura do Projeto
 
-```
-monitor-ia-case/
-├── app.py              # Dashboard Streamlit
-├── coletor.py          # Módulo de coleta e processamento
-├── noticias.csv        # Dados processados
-├── requirements.txt    # Dependências do projeto
-└── README.md          # Documentação
-```
-
+|Pasta| Arquivo| Função |
+|-|-|-|
+|monitor-ia-case|[app.py](monitor-ia-case/app.py) | Dashboard Streamlit |
+|monitor-ia-case| [coletor.py](monitor-ia-case/coletor.py)| Módulo de coleta e processamento |
+|monitor-ia-case|[noticias.csv](monitor-ia-case/noticias.csv)| Dados gerados apartir do coletor.py|
+monitor-ia-case|[requirements.txt](monitor-ia-case/requirements.txt)|Dependências do projeto|
 ## 📊 Componentes do Dashboard
 
 ### 1. Distribuição de Sentimentos
